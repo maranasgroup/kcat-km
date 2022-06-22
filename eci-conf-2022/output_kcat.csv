@@ -1,0 +1,14 @@
+tag,log[kcat(s^-1)]
+sp|P04806|HXKA_YEAST Hexokinase-1,0.3221248686313629
+ sp|P12709|G6PI_YEAST Glucose-6-phosphate isomerase,0.416747510433197
+ sp|P16861|PFKA1_YEAST ATP-dependent 6-phosphofructokinase subunit alpha,1.2364413738250732
+ sp|P14540|ALF_YEAST Fructose-bisphosphate aldolase,0.07293539494276047
+ sp|P00360|G3P1_YEAST Glyceraldehyde-3-phosphate dehydrogenase,2.01594877243042
+ sp|P00330|ADH1_YEAST Alcohol dehydrogenase 1,2.5588817596435547
+ sp|P00560|PGK_YEAST Phosphoglycerate kinase,1.8334293365478516
+ sp|P00950|PMG1_YEAST Phosphoglycerate mutase 1,2.256959915161133
+ sp|P00549|KPYK1_YEAST Pyruvate kinase 1,0.7195485234260559
+ sp|P06169|PDC1_YEAST Pyruvate decarboxylase isozyme 1,0.5872071981430054
+ sp|P0CX11|ERR2_YEAST Enolase-related protein 2,1.0635913610458374
+ GHM88689.1 triosephosphate isomerase [Saccharomyces cerevisiae],3.14707350730896
+ 

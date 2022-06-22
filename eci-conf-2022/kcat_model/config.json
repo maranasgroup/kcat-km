@@ -1,0 +1,23 @@
+{
+ "activation": "relu",
+ "batch_size": 512,
+ "epochs": 20,
+ "fc_dropout": 0.0,
+ "initializer": "glorot_normal",
+ "integer_embedding_depth": 1024,
+ "learning_rate": 0.001,
+ "loss": "mean_squared_error",
+ "output_fc_layers": 256,
+ "protein_embedding_dropout": 0.4,
+ "protein_fc_layers": 64,
+ "protein_feat_depth": 1280,
+ "protein_feat_length": 1024,
+ "protein_feat_type": "Integer_Embedding",
+ "protein_filters": 64,
+ "protein_kernel_sizes": "[5,10,15,20]",
+ "regularizer_param": 0.0001,
+ "sequence_feat_name": "integer",
+ "smiles_feat_name": "fp_morgan3",
+ "substrate_fc_layers": 512,
+ "substrate_feat_length": 2048
+}
