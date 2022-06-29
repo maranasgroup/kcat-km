@@ -4,7 +4,7 @@ Predictive models for estimating kcat and km of enzymes from sequence/structure 
 # eci-conf-2022
 Models to reproduce results for eci conf 2022 poster
 
-# Requirements
+# Requirements (all found in pip)
 - tensorflow 2 above
 - rdkit-pypi
 - pandas
